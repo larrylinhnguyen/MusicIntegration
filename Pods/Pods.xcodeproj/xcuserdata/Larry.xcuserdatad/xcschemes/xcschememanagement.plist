@@ -4,25 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-JPMMusicSearch.xcscheme</key>
+		<key>Pods-JPMMusicSearch.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>Pods-JPMMusicSearchTests.xcscheme</key>
+		<key>Pods-JPMMusicSearchTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>Pods-JPMMusicSearchUITests.xcscheme</key>
+		<key>Pods-JPMMusicSearchUITests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>SWXMLHash.xcscheme</key>
+		<key>SWXMLHash.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
