@@ -9,6 +9,7 @@
 import Foundation
 
 
+
 protocol ListItemCellViewModelDelegate: class {
     
     func imageDataDownloadDidFinished()

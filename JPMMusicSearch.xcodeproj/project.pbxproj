@@ -294,6 +294,7 @@
 				TargetAttributes = {
 					4651E7881E22238A0029ABFF = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = Q8K5LFSE6P;
 						ProvisioningStyle = Manual;
 					};
 					4651E79C1E22238A0029ABFF = {
@@ -648,11 +649,13 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Q8K5LFSE6P;
 				INFOPLIST_FILE = JPMMusicSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.savingiosdev.JPMMusicSearch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savingiosdeveloper.musicsearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "3e0248c0-b069-4492-b180-eb76362262e8";
+				PROVISIONING_PROFILE_SPECIFIER = MusicSearch;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -663,12 +666,15 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Q8K5LFSE6P;
 				INFOPLIST_FILE = JPMMusicSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.savingiosdev.JPMMusicSearch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savingiosdeveloper.musicsearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "f2a88977-6b52-4cd3-bdd0-dd1339fa3eee";
+				PROVISIONING_PROFILE_SPECIFIER = MusicSearchDis;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
